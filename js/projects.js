@@ -86,14 +86,14 @@ const projects = [
     },
     {
         name: "nplusone",
-        description: "Swift application for advanced mathematical computations and algorithms",
+        description: "iOS app prototype to track your bike fleet - because N+1 bikes is always the right number for cycling enthusiasts",
         url: "https://github.com/jonathanalexander229/nplusone",
         homepageUrl: "",
         primaryLanguage: "Swift",
         hasGitHubPages: false,
         featured: false,
         category: "mobile",
-        topics: ["swift", "algorithms", "mathematics", "ios"],
+        topics: ["swift", "cycling", "bike-tracking", "ios", "fleet-management"],
         updatedAt: "2024-12-24T02:16:30Z"
     },
     {
