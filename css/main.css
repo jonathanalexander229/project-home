@@ -150,12 +150,23 @@ main {
 }
 
 .btn-secondary {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+}
+
+.btn-outline {
     background: transparent;
     color: white;
     border-color: white;
 }
 
-.btn-secondary:hover {
+.btn-outline:hover {
     background: white;
     color: var(--primary-color);
 }
